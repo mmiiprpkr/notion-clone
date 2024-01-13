@@ -1,9 +1,12 @@
 Notetaking App 📝
-Credit https://www.youtube.com/@codewithantonio
-Notetaking App is a web app with Notion-style features for creating beautiful notes. I built this by following an excellent YouTube tutorial by CodeWithAntonio.
+
+<img src="app_screenshot.png" width="500">
+
+# Credit https://www.youtube.com/@codewithantonio
+
+# Notetaking App is a web app with Notion-style features for creating beautiful notes. I built this by following an excellent YouTube tutorial by CodeWithAntonio.
 
 Features ✨
-<img src="features.png" align="right" width="250">
 🖥️ Real-time database update
 💬 Notion-style text editor
 🌙 Dark mode
@@ -20,3 +23,4 @@ Features ✨
 🛬 Custom landing page
 🖼️ Cover images
 🔄 Restore deleted documents
+<img src="features.png" align="right" width="250">
